@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.Map.Entry;
 import java.io.*;
-public class Aprior {
+public class Apriori {
 public static void main(String args[]) throws Exception
 {
 	//taking input from a file and storing it in a arraylist
